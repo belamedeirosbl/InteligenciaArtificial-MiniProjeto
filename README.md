@@ -23,3 +23,9 @@ O fundamento deste miniprojeto é o artigo:
 ### Justificativa da Escolha
 
 O artigo foi escolhido por sua **abordagem inovadora** e relevância no cenário atual de plataformas de streaming. A pesquisa se destaca pela **construção do primeiro corpus em espanhol com anotações manuais** de sentimentos e emoções em mensagens reais da Twitch, identificando a polaridade das mensagens dos telespectadores. A utilização de técnicas de inteligência artificial para alcançar uma acurácia relativamente boa na identificação dessas reações emocionais ressalta a aplicabilidade prática e o potencial de impacto do trabalho.
+
+---
+
+## Ambiente de Execução e Configuração de Dados
+
+Este projeto foi desenvolvido e testado primariamente no ambiente **Google Colab**. Para que os códigos sejam executados corretamente, é fundamental que os dados do projeto sejam organizados tal como consta neste repositório. É **essencial que os caminhos nos scripts (arquivos `.ipynb`) sejam alterados** para apontar para a localização correta dos dados em sua máquina (ou no seu Google Drive). 
